@@ -1,0 +1,3 @@
+def mummify(word)
+
+end
